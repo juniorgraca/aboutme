@@ -1,8 +1,26 @@
-
 # JUNIORAKAJUNOR
 
 ## Me chamo José Carlos da Graça Júnior, ou mais conhecido como JUNIORAKAJUNIOR, sou casado, pai de um garotão, tenho 26 anos, moro em Campo Grande-MS, sou estudante de Front-end, atualmente trabalho no Exército Brasileiro.
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+<div>
+<a href="https://github.com/juniorakajunior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorakajunior1&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorakajunior1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+
+## Experiências 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="30" height="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
+
+
+## Aprendendo 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/>
+
 ## 2010 Blogger.
 
 Tudo que eu fazia antes voltado para "telas" era o que sabia sobre o então blogger, apaixonado por Templates. Já fazia minhas primeiras modificações no HTML e no CSS.
