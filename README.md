@@ -1,11 +1,11 @@
-# JUNIORAKAJUNOR
+# carlosjr-dev
 
 ## Me chamo José Carlos da Graça Júnior, ou mais conhecido como JUNIORAKAJUNIOR, sou casado, pai de um garotão, tenho 26 anos, moro em Campo Grande-MS, sou estudante de Front-end, atualmente trabalho no Exército Brasileiro.
 
 <div>
-<a href="https://github.com/juniorakajunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorakajunior1&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniorakajunior1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/carlosjr-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjr-dev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosjr-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 
